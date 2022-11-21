@@ -3,23 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Modelos/ModeloUsuario.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/VistaIntroduccion.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorLoguin.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorModulos.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/Vistamodulos.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Modelos/ModeloEjercicios.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/Vistaejercicios.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorIntroduccion.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorAutoevaluacion.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorEjercicios.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Dao/conexionSQL.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/Vistaautoevaluacion.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/Vistalogin.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Dao/env.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Vistas/Vistaaprendizaje.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/Controladores/ControladorAprendizaje.java</file>
-            <file>file:/home/poseidon/NetBeansProjects/EducativoFesC/src/educativofesc/EducativoFesC.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Dao/env.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Controladores/ControladorAutoevaluacion.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Modelos/ModeloEjercicios.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Controladores/ControladorEjercicios.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Controladores/ControladorLoguin.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Controladores/ControladorIntroduccion.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Controladores/ControladorModulos.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Dao/conexionSQL.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/Modelos/ModeloUsuario.java</file>
+            <file>file:/C:/Users/thoma/Desktop/educativoFesc/src/educativofesc/EducativoFesC.java</file>
         </group>
     </open-files>
 </project-private>
